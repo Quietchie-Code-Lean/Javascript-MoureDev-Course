@@ -70,3 +70,10 @@ console.log("-----------End excersice 9---------");
 
 
 // 10. Comprueba si dos strings tienen la misma longitud
+
+let firstString = "JavaScript";
+let secondString = "TypeScript";
+
+console.log(firstString.length === secondString.length);
+console.log("-----------End excersice 10---------");
+
