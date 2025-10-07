@@ -21,7 +21,7 @@ console.log(myArray2);
 //We can initialize an array with data numbers.
 
 myArray = [1, 2, 3, 4, 5]
-myArray2 = new Array(1, 2, 3, 4, 5) //with only a number we access to reserve empty items in an array, but when we insert a list value we can store inside the array and its behavior works as a normal initialization os an array. 
+myArray2 = new Array(1, 2, 3, 4, 5) //with only a number we access to reserve empty items inside an array, but when we insert a list value we can store inside the array and its behavior works as a normal initialization of an array. 
 
 console.log(myArray);
 console.log(myArray2);
