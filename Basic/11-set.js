@@ -61,4 +61,4 @@ mySet.add("leafunes.world@gmail.com");      //allow duplicates, it only accept o
 
 
 mySet.add("Leafunes.world@gmail.com"); //The element must be identical, if the element changes, it will be added as a new element.
-console.log(mySet);  
+console.log(mySet);
